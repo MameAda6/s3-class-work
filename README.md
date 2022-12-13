@@ -1,4 +1,2 @@
-# s3-class-wors
-ls
-pwd
-ls -la
+My name is mame
+echo "It works"
